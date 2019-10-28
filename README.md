@@ -1,12 +1,69 @@
 ## AWS-IAM
 Create and manage users, groups, and use permissions to AWS resources 
 
+## Task
+Activate MFA (Multi Factor Authentication) on my root & users
 
+## Criteria
+Step 1: Logged in to AWS 
 
+Step 2: Went to the, AWS Management console
 
+Step 3: Selected, “MANAGE MFA”
 
+Step 4: Clicked, “CONTINUE TO SECURITY CREDITENIALS”
 
+Step 5: Selected, OPEN, “MULTIFACTOR AUTHENTICATION (MFA)”
 
+Step 6: Clicked, ‘’ACTIVATE MFA”
+
+Step 7: Selected, keep “Virtual MFA Device”
+
+Step 8: Clicked, DASHBOARD and that took me to back to, “WELCOME IDENTITY & ACCESS MANAGEMENT” screen
+
+## Task
+Create individual IAM users
+
+## Criteria
+Step 1: Logged in to AWS 
+
+Step 2: Went to the, AWS Management console
+
+Step 3: Selected, “MANAGE USERS”
+
+Step 4: Selected, “ADD USER” & than inputted user name
+
+Step 5: Selected, “PROGRAMATIC ACCESS” and AWS management console access
+
+Step 6: Clicked, “NEXT PERMISSIONS
+
+Step 7 : Selected, “SET PERMISSIONS” by creating a group
+
+Step 8: Clicked, “CREATE GROUP”
+
+Step 9: Selected, “ADMINISTRATORACCESS” and named group
+
+Step 10: Clicked, “CREATE GROUP
+
+Step 11: Clicked, “NEXT TAGS”
+
+Step 12: Selected, “REVIEW”
+
+Step 13: Clicked, “CREATE USER”
+
+Step 11: Hit, “CLOSE”
+
+## Task
+Apply an IAM password policy
+
+## Criteria
+Step 1: Logged in to AWS 
+
+Step 2: Went to the, AWS Management console
+
+Step 3: Selected, “MANAGE PASSWORD PLOCIY”
+
+Step 4: Selected, “PASSWORD POLICY
 
 
 ## Documentation
